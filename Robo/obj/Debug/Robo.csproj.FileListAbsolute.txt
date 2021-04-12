@@ -1,0 +1,7 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\NDD\Robo\RoboCS\Robo\obj\Debug\Robo.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\NDD\Robo\RoboCS\Robo\obj\Debug\Robo.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\NDD\Robo\RoboCS\Robo\bin\Debug\Robo.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\NDD\Robo\RoboCS\Robo\bin\Debug\Robo.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\NDD\Robo\RoboCS\Robo\bin\Debug\Robo.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\NDD\Robo\RoboCS\Robo\obj\Debug\Robo.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\NDD\Robo\RoboCS\Robo\obj\Debug\Robo.pdb
